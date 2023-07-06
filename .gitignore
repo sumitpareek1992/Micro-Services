@@ -1,0 +1,5 @@
+venv
+Account/migrations
+Product/migrations
+Store/migrations
+Warehouse/migrations
